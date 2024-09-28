@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard</title>
+    <title>Dashboard</title
     <link rel="stylesheet" href="style/dashboard.css">
 </head>
 <body>
@@ -24,6 +24,7 @@
                 <li><a href="#">LAPORAN KEUANGAN</a></li>
                 <li><a href="/index">RIWAYAT BELANJA</a></li>
                 <li><a href="/create">INPUT UANG</a></li>
+                <li>input</li>
             </ul>
         </aside>
         <section class="content">
