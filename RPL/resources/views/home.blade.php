@@ -24,6 +24,7 @@
                 <li><a href="#">LAPORAN KEUANGAN</a></li>
                 <li><a href="/index">RIWAYAT BELANJA</a></li>
                 <li><a href="/create">INPUT UANG</a></li>
+                <li><a href="#">Input</a></li>
             </ul>
         </aside>
         <section class="content">
